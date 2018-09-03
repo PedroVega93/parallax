@@ -1,2 +1,2 @@
-# parallaxIphone
+# parallax
 practica de parallax
